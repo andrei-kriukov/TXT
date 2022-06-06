@@ -1,0 +1,13 @@
+person:
+	name: Andrei
+	lastname: Kriukov
+	age: 35
+
+pets:
+	cat: 1
+	dog: null
+
+
+salary:
+	desired: 50000
+
