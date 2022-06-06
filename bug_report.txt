@@ -1,0 +1,11 @@
+Title: Error message appears after tapping on the "Confirm" button in the Order menu
+Date: 06.06.2022
+Severity: S1 - Critical
+Priority: P1 - Urgent
+Environment: Xiaomi Redmi 10, Android 11
+Steps to reproduce: 
+1. Go to the www.xyz.com
+2. Tap the "Order" button
+3. Tap the "Confirm" button
+Expected result: Message "Your order has been sent" appears
+Actual result: The message "Error 404" appears
